@@ -74,7 +74,7 @@ CCTV5+高清,http://113.236.19.219:9901/tsfile/live/1015_1.m3u8?key=txiptv&playl
 上海纪实,http://101.228.122.236:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://101.228.122.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 法制天地,http://101.228.122.236:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-海外线路,#oversea#
+海外线路,#genre#
 CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
