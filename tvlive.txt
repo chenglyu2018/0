@@ -72,5 +72,3 @@ CCTV5+高清,http://113.236.19.219:9901/tsfile/live/1015_1.m3u8?key=txiptv&playl
 高清电影,http://113.236.19.219:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 家庭影院,http://113.236.19.219:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://113.236.19.219:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-风云音乐,http://113.236.19.219:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://113.236.19.219:9901/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
