@@ -1,4 +1,4 @@
-综合,#genre#
+大陆线路,#genre#
 CCTV-1高清,http://113.236.19.219:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2高清,http://113.236.19.219:9901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3高清,http://113.236.19.219:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -74,3 +74,21 @@ CCTV5+高清,http://113.236.19.219:9901/tsfile/live/1015_1.m3u8?key=txiptv&playl
 上海纪实,http://101.228.122.236:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://101.228.122.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 法制天地,http://101.228.122.236:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+海外线路,#oversea#
+CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV-5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV-8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV-16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
+东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD/hls.m3u8
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8
+浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8
+江苏卫视,https://node1.olelive.com:6443/live/JIANGSUHD/hls.m3u8
+CHC家庭影院,https://node1.olelive.com:6443/live/CHCJIATING/hls.m3u8
+五星体育,https://node1.olelive.com:6443/live/WUXINGTY/hls.m3u8
